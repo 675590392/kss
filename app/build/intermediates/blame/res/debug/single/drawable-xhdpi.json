@@ -1,0 +1,974 @@
+[
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/index_login_b.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/index_login_b.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/main_xxcx_an.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/main_xxcx_an.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/ryxx_an.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/ryxx_an.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/hui_back.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/hui_back.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_empty.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/ic_empty.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/yy_dia_jian_shen.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/yy_dia_jian_shen.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/yy_dia_shen.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/yy_dia_shen.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/bottom_image.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/bottom_image.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/fh_shen.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/fh_shen.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/mzsp_title.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/mzsp_title.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/divider.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/divider.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/zrap_rq.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/zrap_rq.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/main_zwgk.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/main_zwgk.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/spbf_down.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/spbf_down.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/dzgw_edit.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/dzgw_edit.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/ds.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/ds.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/yy_dia_qian.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/yy_dia_qian.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/spdb_but.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/spdb_but.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/zr_an.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/zr_an.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/xxcx_x.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/xxcx_x.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/dzgw_bj.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/dzgw_bj.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/sz_an.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/sz_an.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/zrap_button_up.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/zrap_button_up.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/yy_dia_qiann.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/yy_dia_qiann.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/zrap_list_x.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/zrap_list_x.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/mzjy.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/mzjy.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/xxcx_d.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/xxcx_d.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/main_xxcx.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/main_xxcx.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/people_background02_down.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/people_background02_down.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/yyts.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/yyts.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/zrap_sj_text.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/zrap_sj_text.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/volume_bigzero_press_true.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/volume_bigzero_press_true.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/xxyd_grid_image.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/xxyd_grid_image.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/zrap_t.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/zrap_t.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/touming.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/touming.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/return_down.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/return_down.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/back_normal.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/back_normal.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/nbgd_ground_bg.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/nbgd_ground_bg.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/yy_but_down.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/yy_but_down.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/sysm_back.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/sysm_back.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/cancel_down.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/cancel_down.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/image_delect_shen.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/image_delect_shen.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/main_yrzx_an.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/main_yrzx_an.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/ywgl_x.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/ywgl_x.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/mzsp_title1.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/mzsp_title1.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/ground_nbgd.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/ground_nbgd.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/zrap_time_lv.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/zrap_time_lv.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/shipin_hui.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/shipin_hui.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/pwback.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/pwback.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/video_play_state_bg.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/video_play_state_bg.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/xxyd_back.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/xxyd_back.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/language_b.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/language_b.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/fh_qian.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/fh_qian.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/hsswbz.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/hsswbz.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/dian1.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/dian1.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/dzgw_but.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/dzgw_but.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/volume_zero_press_false.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/volume_zero_press_false.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/shenhe_sb.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/shenhe_sb.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/dcpg_x.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/dcpg_x.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/dm.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/dm.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/jzcx.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/jzcx.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/zrap_l.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/zrap_l.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/qlyw_ground_on.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/qlyw_ground_on.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/volume_bigzero_press_false.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/volume_bigzero_press_false.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/play_down.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/play_down.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/search_ok.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/search_ok.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/xiugai_qian.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/xiugai_qian.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/main_nwap.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/main_nwap.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/user_login_xx.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/user_login_xx.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/message.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/message.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/qlyw_ground_bg.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/qlyw_ground_bg.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/wjdc_text.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/wjdc_text.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/zx_gz.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/zx_gz.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/zx_arrow_on.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/zx_arrow_on.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/pw_item.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/pw_item.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/renyuan_an.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/renyuan_an.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/yy_but_up.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/yy_but_up.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/renyuan_liang.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/renyuan_liang.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/zr_qian.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/zr_qian.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/main_zrap_shen.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/main_zrap_shen.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/puwei_hui.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/puwei_hui.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/wjdc.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/wjdc.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/main_cwgz_an.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/main_cwgz_an.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/main_tab.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/main_tab.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/zrap_zm.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/zrap_zm.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/shenhe_zsh.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/shenhe_zsh.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/zwgk_d.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/zwgk_d.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/dzgw_but_up.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/dzgw_but_up.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/spbf_up.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/spbf_up.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/zrap_up.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/zrap_up.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/call_area_buttom.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/call_area_buttom.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/fgx.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/fgx.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/yy_dia_fanhui.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/yy_dia_fanhui.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/llzr.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/llzr.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/nbgd_ground_on.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/nbgd_ground_on.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/qlyw_ground_off.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/qlyw_ground_off.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/nwap_text.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/nwap_text.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/zwgk_back.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/zwgk_back.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/language_but_on.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/language_but_on.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/puwei_an.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/puwei_an.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/yy_dia_zhong_qian.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/yy_dia_zhong_qian.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/main_zgd_an.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/main_zgd_an.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/main_yrzx_shen.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/main_yrzx_shen.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/zrap_ry_item.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/zrap_ry_item.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/qlyw.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/qlyw.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/pwap_down.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/pwap_down.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/main_zhu.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/main_zhu.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/main_yy_an.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/main_yy_an.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/dcpg_d.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/dcpg_d.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/main_dcpg.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/main_dcpg.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/xxtz.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/xxtz.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/yy_down.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/yy_down.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/sysm_d.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/sysm_d.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/sysm.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/sysm.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/main_sysm.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/main_sysm.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/login_button_shen.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/login_button_shen.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/dzgw_but_down.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/dzgw_but_down.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/flyz_down.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/flyz_down.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/zwlr.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/zwlr.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/yy_dia_jian.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/yy_dia_jian.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/spdb_list_back.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/spdb_list_back.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/nwap_d.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/nwap_d.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/rjz.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/rjz.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/zx_rq.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/zx_rq.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/user_login_edit.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/user_login_edit.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/play_up.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/play_up.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/more_up.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/more_up.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/main_x.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/main_x.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/zrap_list_back.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/zrap_list_back.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/jjd.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/jjd.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/mzsp.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/mzsp.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/shenhe_tg.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/shenhe_tg.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/video_pause_press_true.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/video_pause_press_true.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/zr_ry_head.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/zr_ry_head.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/volume_zero_press_true.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/volume_zero_press_true.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/video_pause_press_false.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/video_pause_press_false.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/qlyw_up.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/qlyw_up.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/pw_item_qian.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/pw_item_qian.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/flyz_up.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/flyz_up.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/main_yy_shen.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/main_yy_shen.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/sz_song.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/sz_song.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/hssw.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/hssw.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/zrap_down.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/zrap_down.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/ground_nbgd_z.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/ground_nbgd_z.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/dzsj.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/dzsj.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/lan_x.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/lan_x.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/main_zgd_shen.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/main_zgd_shen.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/nbgd.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/nbgd.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/dzgw_spinner.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/dzgw_spinner.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/theme_image.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/theme_image.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/main_cwgz.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/main_cwgz.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/pwap_up.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/pwap_up.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/mzsp_back.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/mzsp_back.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/qlyw_down.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/qlyw_down.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/main_d.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/main_d.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/people_background01.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/people_background01.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/cancel_up.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/cancel_up.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/sysm_text.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/sysm_text.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/pw_item_shen.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/pw_item_shen.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/divider_h.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/divider_h.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/more_caid_up.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/more_caid_up.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/time_stop.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/time_stop.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/yy_dia_back.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/yy_dia_back.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/time_start.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/time_start.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/login_button_qian.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/login_button_qian.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/mapbk.9.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/mapbk.9.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/badges.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/badges.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/flyz_aorrw_on.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/flyz_aorrw_on.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/ground_qlyw_z.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/ground_qlyw_z.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/yy_up.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/yy_up.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/nbgd_ground_off.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/nbgd_ground_off.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/display_column.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/display_column.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/flyz_aorrw_ok.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/flyz_aorrw_ok.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/mzsp_back2.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/mzsp_back2.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/pw_item_head.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/pw_item_head.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/submit.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/submit.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/video_volume_thum.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/video_volume_thum.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/zwgk_x.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/zwgk_x.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/dzgw_aorrw.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/dzgw_aorrw.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_error.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/ic_error.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/sysm_x.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/sysm_x.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/dzgw.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/dzgw.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/more_down.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/more_down.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/video_play_press_true.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/video_play_press_true.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/ground_qlyw.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/ground_qlyw.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/xxcx_text.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/xxcx_text.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/spdb.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/spdb.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/zr_xian.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/zr_xian.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/puwei_xian.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/puwei_xian.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/grxfcx.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/grxfcx.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/language_but_ok.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/language_but_ok.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/mzsp_back1.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/mzsp_back1.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_stub.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/ic_stub.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/main_zrap_an.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/main_zrap_an.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/mzsp_bg.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/mzsp_bg.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/home_page_up.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/home_page_up.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/zrap_button.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/zrap_button.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/main_ywbl.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/main_ywbl.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/dian12.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/dian12.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/xiugai_shen.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/xiugai_shen.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/more_caid_down.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/more_caid_down.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/dian2.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/dian2.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/list_driver.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/list_driver.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/flyz_edit.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/flyz_edit.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/zrap_item.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/zrap_item.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/ywbl_text.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/ywbl_text.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/yrzx.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/yrzx.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/nwap_x.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/nwap_x.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/dian11.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/dian11.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/spdb_bj.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/spdb_bj.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/main_sysm_an.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/main_sysm_an.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/video_press_thum.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/video_press_thum.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/pw_itme_user.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/pw_itme_user.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/zwgk.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/zwgk.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/main_nwap_an.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/main_nwap_an.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/ej_back.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/ej_back.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/search_on.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/search_on.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/ground_qlyw_y.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/ground_qlyw_y.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/dialog_progress_round.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/dialog_progress_round.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/main_dcpg_an.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/main_dcpg_an.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/image_delect_qian.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/image_delect_qian.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/flyz.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/flyz.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/main_ywbl_an.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/main_ywbl_an.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/zx_arrow_ok.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/zx_arrow_ok.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/zrap_time_red.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/zrap_time_red.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/yy_edit.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/yy_edit.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/back_press.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/back_press.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/home_page_down.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/home_page_down.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/xlpc.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/xlpc.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/gsnr.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/gsnr.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/ywgl_d.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/ywgl_d.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/people_background02.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/people_background02.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/return_up.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/return_up.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/shenhe_mysh.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/shenhe_mysh.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/dzgw_down.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/dzgw_down.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/pwap.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/pwap.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/dzgw_up.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/dzgw_up.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/yy_dia_zhong.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/yy_dia_zhong.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/ground_nbgd_y.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/ground_nbgd_y.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/puwei_liang.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/puwei_liang.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/video_play_press_false.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/video_play_press_false.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-xhdpi/hua_back.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-xhdpi/hua_back.png"
+    }
+]

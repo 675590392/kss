@@ -1,0 +1,554 @@
+[
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/medicalconsumption_activity.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/medicalconsumption_activity.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/psychologicalevaluation_activity.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/psychologicalevaluation_activity.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/sunny/.android/build-cache/340e945819e6e4151ea900db254f328dd652dc5f/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/bookmark.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/bookmark.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/sunny/.android/build-cache/340e945819e6e4151ea900db254f328dd652dc5f/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/addbookmarkdlg.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/addbookmarkdlg.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/sunny/.android/build-cache/db0c6901ac548969ec3051d5c8c0ebc92c81663f/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/sunny/.android/build-cache/340e945819e6e4151ea900db254f328dd652dc5f/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/video_activity.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/video_activity.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/fingerprint/build/intermediates/bundles/default/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/week_edu_item.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/week_edu_item.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/main_fragment.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/main_fragment.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/sunny/.android/build-cache/340e945819e6e4151ea900db254f328dd652dc5f/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/sunny/.android/build-cache/db0c6901ac548969ec3051d5c8c0ebc92c81663f/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/zbb_item.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/zbb_item.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/sunny/.android/build-cache/340e945819e6e4151ea900db254f328dd652dc5f/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/schedule_activity.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/schedule_activity.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/sunny/.android/build-cache/340e945819e6e4151ea900db254f328dd652dc5f/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/sunny/.android/build-cache/340e945819e6e4151ea900db254f328dd652dc5f/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/sunny/.android/build-cache/340e945819e6e4151ea900db254f328dd652dc5f/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/sunny/.android/build-cache/340e945819e6e4151ea900db254f328dd652dc5f/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/activity_public_bunk_agrement.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/activity_public_bunk_agrement.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/zrap_item.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/zrap_item.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/day_rest_activity.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/day_rest_activity.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/Users/sunny/.android/build-cache/db0c6901ac548969ec3051d5c8c0ebc92c81663f/output/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/rights_obligations_activity.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/rights_obligations_activity.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Users/sunny/.android/build-cache/db0c6901ac548969ec3051d5c8c0ebc92c81663f/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/spinner_style_text.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/spinner_style_text.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/sunny/.android/build-cache/340e945819e6e4151ea900db254f328dd652dc5f/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/activity_buy.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/activity_buy.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/more_caid_activity.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/more_caid_activity.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/sunny/.android/build-cache/340e945819e6e4151ea900db254f328dd652dc5f/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/spinner_item.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/spinner_item.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/sunny/.android/build-cache/340e945819e6e4151ea900db254f328dd652dc5f/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/ryap_itme.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/ryap_itme.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/questionnaires_activity.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/questionnaires_activity.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/sunny/.android/build-cache/340e945819e6e4151ea900db254f328dd652dc5f/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/public_bunk_list_item.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/public_bunk_list_item.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/sunny/.android/build-cache/340e945819e6e4151ea900db254f328dd652dc5f/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/sunny/.android/build-cache/340e945819e6e4151ea900db254f328dd652dc5f/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/main_pop.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/main_pop.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/shopping_activity.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/shopping_activity.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/spinner_style.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/spinner_style.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/sunny/.android/build-cache/340e945819e6e4151ea900db254f328dd652dc5f/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/zx_item.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/zx_item.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/legal_aid_activity.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/legal_aid_activity.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/tv_activity.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/tv_activity.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/sunny/.android/build-cache/db0c6901ac548969ec3051d5c8c0ebc92c81663f/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/sunny/.android/build-cache/340e945819e6e4151ea900db254f328dd652dc5f/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/medical_item.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/medical_item.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/openfile.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/openfile.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/filelist.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/filelist.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/notyfication_activity.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/notyfication_activity.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/public_schedu_list_item.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/public_schedu_list_item.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/web_popwindows.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/web_popwindows.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/gw_grid_item.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/gw_grid_item.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/zrap_ry_item.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/zrap_ry_item.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/sunny/.android/build-cache/db0c6901ac548969ec3051d5c8c0ebc92c81663f/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/sunny/.android/build-cache/340e945819e6e4151ea900db254f328dd652dc5f/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/pwap_itme.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/pwap_itme.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/nbcontent_activity.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/nbcontent_activity.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/activity_public_schedule.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/activity_public_schedule.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/evaluation_of_heart.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/evaluation_of_heart.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/questionnaire_survey.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/questionnaire_survey.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/pull_to_refresh_head.xml",
+        "source": "/Users/sunny/.android/build-cache/8ab16cfe480eaf9619d1904aae43dcb2f5c8f4cd/output/res/layout/pull_to_refresh_head.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/sunny/.android/build-cache/340e945819e6e4151ea900db254f328dd652dc5f/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/layout_finger_item.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/layout_finger_item.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/berth_activity.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/berth_activity.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Users/sunny/.android/build-cache/db0c6901ac548969ec3051d5c8c0ebc92c81663f/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/sunny/.android/build-cache/340e945819e6e4151ea900db254f328dd652dc5f/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/notification_template_custom_big.xml",
+        "source": "/Users/sunny/.android/build-cache/340e945819e6e4151ea900db254f328dd652dc5f/output/res/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/gw_list_item.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/gw_list_item.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/sunny/.android/build-cache/340e945819e6e4151ea900db254f328dd652dc5f/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/mypopwindow.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/mypopwindow.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/spdb_item.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/spdb_item.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/sunny/.android/build-cache/340e945819e6e4151ea900db254f328dd652dc5f/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/video_detail_play.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/video_detail_play.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/sunny/.android/build-cache/340e945819e6e4151ea900db254f328dd652dc5f/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/personalconsumption_activity.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/personalconsumption_activity.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/listview_header.xml",
+        "source": "/Users/sunny/.android/build-cache/8ab16cfe480eaf9619d1904aae43dcb2f5c8f4cd/output/res/layout/listview_header.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/noml_adaprer.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/noml_adaprer.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/sunny/.android/build-cache/340e945819e6e4151ea900db254f328dd652dc5f/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/evaluation_heart_list_item.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/evaluation_heart_list_item.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/sunny/.android/build-cache/db0c6901ac548969ec3051d5c8c0ebc92c81663f/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/main_more_activity.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/main_more_activity.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/sunny/.android/build-cache/db0c6901ac548969ec3051d5c8c0ebc92c81663f/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/zbb_activity.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/zbb_activity.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/nw_pwap.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/nw_pwap.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/sunny/.android/build-cache/340e945819e6e4151ea900db254f328dd652dc5f/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/listview_footer.xml",
+        "source": "/Users/sunny/.android/build-cache/8ab16cfe480eaf9619d1904aae43dcb2f5c8f4cd/output/res/layout/listview_footer.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/cr_item.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/cr_item.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/sunny/.android/build-cache/db0c6901ac548969ec3051d5c8c0ebc92c81663f/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/schedule_personnel_activity.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/schedule_personnel_activity.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/sunny/.android/build-cache/340e945819e6e4151ea900db254f328dd652dc5f/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/loading_process_dialog_anim.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/loading_process_dialog_anim.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/nbgd_item.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/nbgd_item.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/sunny/.android/build-cache/340e945819e6e4151ea900db254f328dd652dc5f/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/yy_list_item.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/yy_list_item.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/sunny/.android/build-cache/340e945819e6e4151ea900db254f328dd652dc5f/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/internal_rules_activity.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/internal_rules_activity.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/servcie_action_list_item.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/servcie_action_list_item.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/xxyd_grid_item.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/xxyd_grid_item.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/researchers_report_activity.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/researchers_report_activity.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/main_activity.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/main_activity.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/saitu_dialog.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/saitu_dialog.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/activity_week_eeducat.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/activity_week_eeducat.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/activity_base_main.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/activity_base_main.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/sunny/.android/build-cache/340e945819e6e4151ea900db254f328dd652dc5f/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/activity_finger_print.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/activity_finger_print.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/sunny/.android/build-cache/340e945819e6e4151ea900db254f328dd652dc5f/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/zrap_time_list.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/zrap_time_list.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/flyz_item.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/flyz_item.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/sunny/.android/build-cache/340e945819e6e4151ea900db254f328dd652dc5f/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/activity_servcie_action.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/activity_servcie_action.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/sunny/.android/build-cache/340e945819e6e4151ea900db254f328dd652dc5f/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/sunny/.android/build-cache/340e945819e6e4151ea900db254f328dd652dc5f/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/notyfi_list_item.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/notyfi_list_item.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/activity_room_record.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/activity_room_record.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/explain_activity.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/explain_activity.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/sunny/.android/build-cache/db0c6901ac548969ec3051d5c8c0ebc92c81663f/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/readbook.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/readbook.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/Users/sunny/.android/build-cache/db0c6901ac548969ec3051d5c8c0ebc92c81663f/output/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/sunny/.android/build-cache/340e945819e6e4151ea900db254f328dd652dc5f/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/learning_garden_activity.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/learning_garden_activity.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/sunny/.android/build-cache/340e945819e6e4151ea900db254f328dd652dc5f/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/activity_inter_rules.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/activity_inter_rules.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/sunny/.android/build-cache/340e945819e6e4151ea900db254f328dd652dc5f/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/sunny/.android/build-cache/340e945819e6e4151ea900db254f328dd652dc5f/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/sunny/.android/build-cache/db0c6901ac548969ec3051d5c8c0ebc92c81663f/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/sunny/.android/build-cache/340e945819e6e4151ea900db254f328dd652dc5f/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/userlogin.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/userlogin.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/dialog.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/dialog.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/sunny/.android/build-cache/340e945819e6e4151ea900db254f328dd652dc5f/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/food_activity.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/food_activity.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/caid_item.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/caid_item.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/login_activity.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/login_activity.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/zc_item.xml",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/layout/zc_item.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/Users/sunny/.android/build-cache/db0c6901ac548969ec3051d5c8c0ebc92c81663f/output/res/layout/design_navigation_item.xml"
+    }
+]

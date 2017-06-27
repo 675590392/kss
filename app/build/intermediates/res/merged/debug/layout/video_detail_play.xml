@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/play_view"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:visibility="visible" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="70dip"
+                android:background="#ff708ec4" >
+
+                <TextView
+                    android:id="@+id/video_title_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="fill_parent"
+                    android:layout_centerInParent="true"
+                    android:layout_marginLeft="10dip"
+                    android:gravity="center_vertical"
+                    android:text="音频名称"
+                    android:textColor="#FFFFFF"
+                    android:textSize="26dip" />
+
+                <ImageButton
+                    android:id="@+id/bacK_button"
+                    android:layout_width="50dip"
+                    android:layout_height="50dip"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="20dip"
+                    android:background="@drawable/back_button"
+                    android:scaleType="fitXY" />
+            </RelativeLayout>
+
+            <com.example.jyxmyt.view.MyVideoView
+                android:id="@+id/videoView"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_gravity="center"
+                android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/video_action"
+            android:layout_width="fill_parent"
+            android:layout_height="100dip"
+            android:layout_alignParentBottom="true"
+            android:background="@drawable/video_play_state_bg"
+            android:orientation="vertical" >
+
+            <SeekBar
+                android:id="@+id/seekbar"
+                style="@style/progressbarStyle_Horizontal_blue"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:indeterminate="false"
+                android:thumb="@drawable/video_press_thum" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_gravity="center_vertical"
+                android:gravity="center_vertical"
+                android:orientation="horizontal" >
+
+                <ImageButton
+                    android:id="@+id/playorpause"
+                    android:layout_width="40dip"
+                    android:layout_height="40dip"
+                    android:layout_gravity="center_vertical"
+                    android:layout_margin="20dip"
+                    android:background="@drawable/video_play"
+                    android:scaleType="center" />
+
+                <TextView
+                    android:id="@+id/play_time"
+                    android:layout_width="wrap_content"
+                    android:layout_height="fill_parent"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="50dip"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical"
+                    android:textColor="#000000"
+                    android:textSize="23dip" />
+
+                <LinearLayout
+                    android:layout_width="260dip"
+                    android:layout_height="fill_parent"
+                    android:layout_gravity="center_vertical"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal" >
+
+                    <ImageButton
+                        android:id="@+id/volume_button"
+                        android:layout_width="40dip"
+                        android:layout_height="30dip"
+                        android:background="@drawable/volume_zero" />
+
+                    <SeekBar
+                        android:id="@+id/volume"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:background="@drawable/seekbar_style"
+                        android:maxHeight="5dip"
+                        android:minHeight="5dip"
+                        android:paddingLeft="27dip"
+                        android:paddingRight="27dip"
+                        android:thumb="@drawable/video_volume_thum" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </RelativeLayout>
+</FrameLayout>

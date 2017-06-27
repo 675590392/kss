@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <LinearLayout
+            android:layout_width="2dp"
+            android:layout_height="match_parent"
+            android:background="#cbd0d4" >
+        </LinearLayout>
+<TextView
+    android:id="@+id/text_peo_num"
+    android:layout_width="50dp"
+    android:layout_height="wrap_content"
+    android:text="人员编号"
+    android:textSize="30dp"
+    android:textAlignment="center"
+    android:gravity="center"
+    android:textColor="#163758"
+    android:layout_weight="1"/>
+        <LinearLayout
+            android:layout_width="2dp"
+            android:layout_height="match_parent"
+            android:background="#cbd0d4" >
+        </LinearLayout>
+    <TextView
+        android:id="@+id/text_peo_name"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:text="姓名"
+        android:textSize="30dp"
+        android:textAlignment="center"
+        android:gravity="center"
+        android:textColor="#163758"
+        android:layout_weight="1"/>
+        <LinearLayout
+            android:layout_width="2dp"
+            android:layout_height="match_parent"
+            android:background="#cbd0d4" >
+        </LinearLayout>
+    <TextView
+        android:id="@+id/text_peo_pwh"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:text="铺位号"
+        android:textAlignment="center"
+        android:gravity="center"
+        android:textSize="30dp"
+        android:textColor="#163758"
+        android:layout_weight="0.5"/>
+        <LinearLayout
+            android:layout_width="2dp"
+            android:layout_height="match_parent"
+            android:background="#cbd0d4" >
+        </LinearLayout>
+    <TextView
+        android:id="@+id/text_peo_yj"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:text="眼镜"
+        android:textSize="30dp"
+        android:textAlignment="center"
+        android:gravity="center"
+        android:textColor="#163758"
+        android:layout_weight="0.5"/>
+        <LinearLayout
+            android:layout_width="2dp"
+            android:layout_height="match_parent"
+            android:background="#cbd0d4" >
+        </LinearLayout>
+    <TextView
+        android:id="@+id/text_peo_dz"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:text="凳子"
+        android:textSize="30dp"
+        android:textAlignment="center"
+        android:gravity="center"
+        android:textColor="#163758"
+        android:layout_weight="0.5"/>
+        <LinearLayout
+            android:layout_width="2dp"
+            android:layout_height="match_parent"
+            android:background="#cbd0d4" >
+        </LinearLayout>
+    <TextView
+        android:id="@+id/text_duty_content"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:text="值日内容"
+        android:textSize="30dp"
+        android:textAlignment="center"
+        android:gravity="center"
+        android:textColor="#163758"
+        android:layout_weight="1.5"/>
+        <LinearLayout
+            android:layout_width="2dp"
+            android:layout_height="match_parent"
+            android:background="#cbd0d4" >
+        </LinearLayout>
+
+    </LinearLayout>
+</LinearLayout>

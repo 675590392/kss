@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/ej_back"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#3680cd"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="20dp"
+            android:text="主页 >心理试卷 > 心里测评"
+            android:textColor="#ffffff"
+            android:textSize="22sp" />
+    </RelativeLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_margin="10dp"
+        >
+        <TextView
+            android:id="@+id/text_room"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:text="监室号："
+            android:textSize="20dp"
+            android:textColor="#555"
+            android:gravity="center"
+            android:layout_marginRight="10dp"
+
+            />
+        <TextView
+            android:id="@+id/edt_prison_num"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:textSize="22sp"
+            android:text="人员编号："
+            android:textColor="#555"
+            android:gravity="center"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            ></TextView>
+    </LinearLayout>
+    <View
+    android:layout_below="@+id/pw"
+    android:id="@+id/view_pw_line"
+    android:layout_width="match_parent"
+    android:layout_height="5dp"
+    android:background="@drawable/cwzk_x"
+    android:layout_marginLeft="10dp"
+    android:layout_marginRight="10dp"
+    android:layout_marginBottom="10dp"/>
+
+  <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="5"
+        android:orientation="vertical">
+        <ListView
+            android:id="@+id/list_xlcp"
+            android:layerType="software" 
+            android:layout_marginLeft="20dp"
+        	android:layout_marginRight="20dp"  
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center|right"
+        android:layout_marginBottom="10dp"
+        android:layout_marginRight="100dp"
+        >
+        <Button
+            android:id="@+id/btn_xlcp_submit"
+            android:layout_width="130dp"
+            android:layout_height="80dp"
+            android:layout_gravity="center"
+            android:background="@drawable/submit"
+            android:textSize="22dp"
+            android:text=""
+            android:layout_alignParentBottom="true"
+            />
+    </LinearLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/bottom_image" >
+
+
+        <ImageView
+            android:id="@+id/return_but"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/return_style" />
+    </RelativeLayout>
+
+</LinearLayout>

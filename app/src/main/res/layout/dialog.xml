@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/yy_dia_back"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="50dip"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <Button
+                    android:id="@+id/yy_name"
+                    android:layout_width="350dip"
+                    android:layout_height="50dip"
+                    android:background="@drawable/yy_dia_shen"
+                    android:text="预约"
+                    android:textColor="#666"
+                    android:textSize="30dip"
+                    android:layout_marginBottom="3dip"
+                    android:textStyle="bold" />
+
+                <RelativeLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="153dip"
+                    android:orientation="horizontal" >
+
+                    <ImageView
+                        android:id="@+id/yy_sx"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/yy_dia_jian_shen" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="审核"
+                        android:textSize="30dip"
+                        android:id="@+id/shenhe"
+                        android:textColor="@color/hui"
+                        android:layout_toRightOf="@id/yy_sx"
+                        android:layout_centerVertical="true"
+                        android:textStyle="bold" />
+                </RelativeLayout>
+
+                <Button
+                    android:id="@+id/yy_z"
+                    android:layout_width="350dip"
+                    android:layout_height="100dip"
+                    android:layout_marginBottom="3dip"
+                    android:layout_marginTop="3dip"
+                    android:background="@drawable/yy_dia_zhong"
+                    android:text="预约"
+                    android:textColor="#666"
+                    android:textSize="30dip"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+            <ImageView
+                android:id="@+id/yy_fh"
+                android:layout_width="wrap_content"
+                android:layout_height="222dip"
+                android:layout_marginLeft="5dip"
+                android:layout_marginTop="7dip"
+                android:background="@drawable/yy_dia_fanhui" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginRight="43dip"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/yy_xx"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dip"
+                android:layout_marginBottom="3dip"
+                android:background="@drawable/yy_dia_jian_shen" />
+
+            <Button
+                android:id="@+id/yy_jg"
+                android:layout_width="350dip"
+                android:layout_height="50dip"
+                android:background="@drawable/yy_dia_shen"
+                android:text="审核通过"
+                android:textColor="#666"
+                android:textSize="30dip"
+                android:textStyle="bold" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

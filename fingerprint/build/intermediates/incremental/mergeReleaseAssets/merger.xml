@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/sunny/Documents/android/android enterprise project/kss/fingerprint/src/main/assets"/><source path="/Users/sunny/Documents/android/android enterprise project/kss/fingerprint/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/Users/sunny/Documents/android/android enterprise project/kss/fingerprint/src/release/assets"/></dataSet></merger>

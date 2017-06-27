@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/sunny/.android/build-cache/340e945819e6e4151ea900db254f328dd652dc5f/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/sunny/.android/build-cache/340e945819e6e4151ea900db254f328dd652dc5f/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

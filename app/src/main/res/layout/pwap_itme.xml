@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/puwei_an"
+        android:layout_marginRight="33dip"
+        android:orientation="vertical" >
+
+        <RelativeLayout 
+            android:layout_width="fill_parent"
+            android:layout_height="50dip">
+             <TextView
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:text="铺位号:"
+	            android:textColor="#fff"
+	            android:layout_alignParentBottom="true"
+	            android:layout_marginLeft="10dip"
+	            android:layout_alignParentLeft="true"
+	            android:textSize="20sp" />
+            
+             <TextView
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:text="01"
+	            android:id="@+id/puwei_hao"
+	            android:textColor="#fff"
+	            android:textStyle="bold"
+	            android:layout_alignParentTop="true"
+	            android:layout_marginRight="10dip"
+	            android:layout_alignParentRight="true"
+	            android:textSize="40sp" />
+        </RelativeLayout>
+       
+         <LinearLayout 
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="30dip">
+             <TextView
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:text="番号:"
+	            android:textColor="#fff"
+	            android:layout_marginLeft="10dip"
+	            android:textSize="20sp" />
+            
+             <TextView
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:text="123456789"
+	            android:id="@+id/ry_fh"
+	            android:textColor="#fff"
+	            android:layout_marginLeft="3dip"
+	            android:layout_marginRight="10dip"
+	            android:textSize="20sp" />
+        </LinearLayout>
+        
+         <LinearLayout 
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="15dip">
+             <TextView
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:text="姓名:"
+	            android:textColor="#fff"
+	            android:layout_marginLeft="10dip"
+	            android:textSize="20sp" />
+            
+             <TextView
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:text="撒撒撒上点方法是"
+	            android:id="@+id/ry_xm"
+	            android:textColor="#fff"
+	            android:layout_marginLeft="3dip"
+	            android:layout_marginRight="10dip"
+	            android:textSize="20sp" />
+        </LinearLayout>
+        
+    </LinearLayout>
+
+</LinearLayout>

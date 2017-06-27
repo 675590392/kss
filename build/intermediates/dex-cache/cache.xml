@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\JYXMYT\fingerprint\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c07b60a07f2b41f4583703fe79085e7c097bbe43">
+        <dex dex="F:\JYXMYT\app\build\intermediates\pre-dexed\debug\classes_c890643d131e72aeaa65427383df790da9b3f120.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\kss\fingerprint\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c07b60a07f2b41f4583703fe79085e7c097bbe43">
+        <dex dex="F:\kss\app\build\intermediates\pre-dexed\debug\classes_52d2308a3c229b330402df99cb6f43ff2f9f471d.jar" />
+    </item>
+
+</items>

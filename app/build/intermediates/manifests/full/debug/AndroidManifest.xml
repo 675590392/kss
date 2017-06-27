@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.jyxmyt"
+    android:versionCode="2"
+    android:versionName="2.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="25" />
+
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.ACCESS_SUPERUSER" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <!-- 添加使用SD卡的权限 -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <!-- 网络权限 -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INSTALL_PACKAGES" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <uses-permission android:name="android.permission.FLASHLIGHT" /> <!-- 关闭应用程序权限 -->
+    <!-- <uses-permission android:name="android.permission.RESTART_PACKAGES" /> -->
+    <application
+        android:name="com.example.jyxmyt.app.JYYTApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/badges"
+        android:label="@string/app_name"
+        android:theme="@android:style/Theme.NoTitleBar" >
+        <activity
+            android:name="com.example.jyxmyt.activity.MainActivity"
+            android:label="@string/app_name"
+            android:launchMode="singleInstance"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:windowSoftInputMode="stateUnchanged" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <!-- 登陆界面 -->
+        <activity
+            android:name="com.example.jyxmyt.activity.LogInActivity"
+            android:screenOrientation="landscape"
+            android:theme="@style/Theme"
+            android:windowSoftInputMode="stateUnchanged" />
+        <!-- 铺位安排 -->
+        <activity
+            android:name="com.example.jyxmyt.activity.BerthActivity"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:windowSoftInputMode="stateUnchanged" />
+        <!-- 日程安排 -->
+        <activity
+            android:name="com.example.jyxmyt.activity.ScheduleActivity"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:windowSoftInputMode="stateUnchanged" />
+        <!-- 日程安排人员信息 -->
+        <activity
+            android:name="com.example.jyxmyt.activity.SchedulePersonnelActivity"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:windowSoftInputMode="stateUnchanged" />
+        <!-- 一日作息 -->
+        <activity
+            android:name="com.example.jyxmyt.activity.DayRestActivity"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:windowSoftInputMode="stateUnchanged" />
+        <!-- 大帐购物 -->
+        <activity
+            android:name="com.example.jyxmyt.activity.ShoppingActivity"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:windowSoftInputMode="stateUnchanged" />
+        <!-- 视频点播 -->
+        <activity
+            android:name="com.example.jyxmyt.activity.VideoActivity"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:windowSoftInputMode="stateUnchanged" />
+        <!-- 视频播放 -->
+        <activity
+            android:name="com.example.jyxmyt.activity.VideoPlaybackActivity"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:windowSoftInputMode="stateUnchanged" />
+        <!-- 学习园地 -->
+        <activity
+            android:name="com.example.jyxmyt.activity.LearningGardenActivity"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:windowSoftInputMode="stateUnchanged" />
+        <!-- 法律援助 -->
+        <activity
+            android:name="com.example.jyxmyt.activity.LegalAidActivity"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:windowSoftInputMode="stateUnchanged" />
+        <!-- 人员报告 -->
+        <activity
+            android:name="com.example.jyxmyt.activity.ResearchersReportActivity"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:windowSoftInputMode="stateUnchanged" />
+        <!-- 权利义务 -->
+        <activity
+            android:name="com.example.jyxmyt.activity.RightsObligationsActivity"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:windowSoftInputMode="stateUnchanged" />
+        <!-- 内部规定 -->
+        <activity
+            android:name="com.example.jyxmyt.activity.InternalRulesActivity"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:windowSoftInputMode="stateUnchanged" />
+        <activity
+            android:name="com.example.jyxmyt.activity.InterRulesActivity"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:windowSoftInputMode="stateUnchanged" />
+        <!-- 内部规定内容显示 -->
+        <activity
+            android:name="com.example.jyxmyt.activity.NBContentActivity"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:windowSoftInputMode="stateUnchanged" />
+
+        <!-- 更多主界面 -->
+        <activity
+            android:name="com.example.jyxmyt.activity.MainMoreActivity"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:windowSoftInputMode="stateUnchanged" />
+        <!-- 每日菜单 -->
+        <activity
+            android:name="com.example.jyxmyt.activity.MoreCaidActivity"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:windowSoftInputMode="stateUnchanged" />
+        <!-- 个人消费信息 -->
+        <activity
+            android:name="com.example.jyxmyt.activity.PersonalConsumptionActivity"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:windowSoftInputMode="stateUnchanged" />
+
+        <!-- 就诊消费 -->
+        <activity
+            android:name="com.example.jyxmyt.activity.MedicalConsumptionActivity"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:windowSoftInputMode="stateUnchanged" />
+        <!-- 电视 -->
+        <activity
+            android:name="com.example.jyxmyt.activity.TVActivity"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:windowSoftInputMode="stateUnchanged" />
+
+        <!-- 使用说明 -->
+        <activity
+            android:name="com.example.jyxmyt.activity.ExplainActivity"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:windowSoftInputMode="stateUnchanged" />
+
+        <!-- 使用说明 -->
+        <activity
+            android:name="com.example.jyxmyt.activity.FoodActivity"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:windowSoftInputMode="stateUnchanged" />
+        <!-- 小说阅读 -->
+        <activity
+            android:name="com.example.jyxmyt.book.ReadBookActivity"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:windowSoftInputMode="stateUnchanged" />
+        <!-- 问卷调查 -->
+        <activity
+            android:name="com.example.jyxmyt.activity.QuestionnaireActivity"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:windowSoftInputMode="stateUnchanged" />
+        <!-- 心里测评 -->
+        <activity
+            android:name="com.example.jyxmyt.activity.EvaluationOfHeartActivity"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:windowSoftInputMode="stateUnchanged" />
+
+        <receiver android:name="com.example.jyxmyt.manager.BootBroadcastReceiver" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+
+                <category android:name="android.intent.category.HOME" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.example.jyxmyt.manager.RestartReceiver" >
+            <intent-filter>
+                <action android:name="restart" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </receiver>
+
+        <service android:name="com.example.jyxmyt.service.RestartService" />
+
+        <activity
+            android:name="com.example.jyxmyt.activity.WeekEeducatActivity"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:windowSoftInputMode="stateUnchanged" />
+        <activity
+            android:name="com.example.jyxmyt.activity.RoomRecordActivity"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:windowSoftInputMode="stateUnchanged" />
+        <activity
+            android:name="com.example.jyxmyt.activity.BunkAgrementActivity"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:windowSoftInputMode="stateUnchanged" />
+        <activity
+            android:name="com.example.jyxmyt.activity.ServcieActionActivity"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:windowSoftInputMode="stateHidden|adjustPan" />
+        <!-- 指纹录入 -->
+        <activity
+            android:name="com.example.jyxmyt.activity.FingerPrintActivity"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:windowSoftInputMode="stateUnchanged" />
+        <activity
+            android:name="com.example.jyxmyt.activity.BuyActivity"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:windowSoftInputMode="stateUnchanged" />
+        <!-- 同步服务 -->
+        <!-- 同步服务 -->
+        <service
+            android:name="com.example.jyxmyt.service.SynFingerServ"
+            android:enabled="true" >
+            <intent-filter android:priority="1000" >
+                <action android:name="synchfingers" />
+            </intent-filter>
+        </service>
+
+        <activity
+            android:name="com.example.jyxmyt.activity.PublicBunkAgrementActivity"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:windowSoftInputMode="stateUnchanged" />
+        <activity
+            android:name="com.example.jyxmyt.activity.PublicScheduleActivity"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:windowSoftInputMode="stateUnchanged" />
+        <activity
+            android:name="com.example.jyxmyt.activity.PsychologicalEvaluationActivity"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:windowSoftInputMode="stateUnchanged" />
+        <activity
+            android:name="com.example.jyxmyt.activity.QuestionnairesActivity"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:windowSoftInputMode="stateUnchanged" />
+        <activity
+            android:name="com.example.jyxmyt.activity.NotificationsActivity"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:windowSoftInputMode="stateUnchanged" />
+    </application>
+
+</manifest>

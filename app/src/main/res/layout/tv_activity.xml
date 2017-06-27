@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/ej_back"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#3680cd" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:text="主页   > 电视"
+            android:layout_centerVertical="true"
+	        android:layout_alignParentLeft="true"
+            android:textColor="#ffffff"
+            android:textSize="22sp" />
+        
+        <ImageView
+            android:layout_width="60dip"
+            android:layout_height="40dip"
+            android:layout_marginRight="20dp"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:id="@+id/qhbdds"
+            android:background="@drawable/return_style" />
+        
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="5"
+        android:orientation="vertical"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp" >
+		<TextView 
+		    android:layout_width="match_parent"
+		    android:layout_height="match_parent"
+		    android:text="尽请期待。。。。"
+		    android:textColor="#55000000"
+		    android:gravity="center"
+		    android:textSize="35sp"
+		    />
+        
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/bottom_image" >
+
+        <ImageView
+            android:id="@+id/home_but"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/home_page_style" />
+
+        <ImageView
+            android:id="@+id/return_but"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/return_style" />
+    </RelativeLayout>
+
+</LinearLayout>

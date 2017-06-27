@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:id="@+id/paperName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:gravity="center"
+        android:textColor="#000000"
+        android:background="@drawable/call_area_buttom"/>
+
+    <!--<TextView-->
+        <!--android:id="@+id/paperName"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:background="@drawable/call_area_buttom"-->
+        <!--android:gravity="center"-->
+        <!--android:paddingLeft="20dp"-->
+        <!--android:paddingRight="20dp"-->
+        <!--android:paddingTop="15dp"-->
+        <!--android:text="问:\t1、什么是宪法？"-->
+        <!--android:textColor="#000000"-->
+        <!--android:textSize="25sp" />-->
+</LinearLayout>

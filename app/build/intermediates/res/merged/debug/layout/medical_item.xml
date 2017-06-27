@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout 
+        android:layout_width="match_parent"
+      	android:layout_height="50dip"
+      	android:orientation="horizontal">
+        <TextView 
+	        android:layout_width="fill_parent"
+	       	android:layout_height="fill_parent"
+	       	android:layout_weight="1.4"
+	       	android:gravity="center"
+	       	android:textColor="#555"
+	       	android:textSize="22dip"
+	       	android:id="@+id/time"
+	       	android:text=""/>
+        <TextView 
+         	android:layout_width="fill_parent"
+	       	android:layout_height="fill_parent"
+	       	android:layout_weight="1.3"
+	       	android:gravity="center"
+	       	android:textColor="#555"
+	       	android:textSize="22dip"
+	       	android:id="@+id/name"
+	       	android:text=""/>
+        <TextView 
+         	android:layout_width="fill_parent"
+	       	android:layout_height="fill_parent"
+	       	android:layout_weight="1.5"
+	       	android:gravity="center"
+	       	android:textColor="#555"
+	       	android:textSize="22dip"
+	       	android:id="@+id/hospital"
+	       	android:text=""/>
+        <TextView 
+         	android:layout_width="fill_parent"
+	       	android:layout_height="fill_parent"
+	       	android:layout_weight="1.1"
+	       	android:gravity="center"
+	       	android:textColor="#555"
+	       	android:id="@+id/backTo"
+	       	android:textSize="22dip"
+	       	android:text=""/>
+	<!--	<CheckBox
+			android:id="@+id/cbCheckBox"
+			android:layout_width="match_parent"
+			android:layout_height="match_parent"
+			android:layout_weight="2.5"
+			android:gravity="center"
+			android:layout_marginLeft="50dip"
+			android:button="@drawable/chekbox_checked_style"
+			android:focusable="false"
+			android:visibility="visible"/>-->
+
+		<CheckBox
+			android:layout_width="fill_parent"
+			android:layout_height="fill_parent"
+			android:layout_weight="1.4"
+			android:textColor="#555"
+			android:gravity="center"
+			android:id="@+id/che_contrin"
+			android:button="@drawable/checkbox_checked_style"
+			android:layout_marginLeft="50dip"
+			android:textSize="22dip"
+			/>
+         </LinearLayout>
+
+</LinearLayout>

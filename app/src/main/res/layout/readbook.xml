@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 主阅读界面的Layout  -->
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/ej_back">
+  	<Button 
+  		android:id="@+id/viewtxt_pre_button" 
+  		android:layout_width="wrap_content" 
+  		android:layout_height="wrap_content" 
+  		android:text="上一页" 
+  		android:layout_marginBottom="50dp"
+  		android:layout_alignParentLeft="true"
+  		android:layout_alignParentBottom="true"
+  		/> 	
+  		
+  	<Button 
+  		android:id="@+id/viewtxt_next_button" 
+  		android:layout_width="wrap_content" 
+  		android:layout_height="wrap_content" 
+  		android:text="下一页" 
+  		  		android:layout_marginBottom="50dp"
+  		
+  		android:layout_alignParentRight="true"
+  		android:layout_alignParentBottom="true"
+  		/> 	
+  	
+  	<Button 
+  		android:id="@+id/viewtxt_auto_scroll_button" 
+  		android:layout_width="wrap_content" 
+  		android:layout_height="wrap_content" 
+  		  		android:layout_marginBottom="50dp"
+  		
+  		android:text="自动滚屏" 
+  		android:layout_centerHorizontal ="true"
+  		android:layout_alignParentBottom="true"
+  		/> 	
+  			
+  	<com.example.jyxmyt.book.CustomTxtView
+  		android:id="@+id/viewtxt_main_view" 
+  		android:layout_height="fill_parent" 
+  		android:layout_width="fill_parent" 
+  		android:singleLine="false" 
+  		android:scrollbars="vertical"
+  		android:lineSpacingExtra="20dip"
+  		android:background="@android:color/transparent"
+  		android:layout_above="@id/viewtxt_pre_button"
+  		/>
+  	<RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/bottom_image" >
+
+        <ImageView
+            android:id="@+id/rhome_but"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:visibility="gone"
+            android:background="@drawable/home_page_style" />
+
+        <ImageView
+            android:id="@+id/breturn_but"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/return_style" />
+    </RelativeLayout>
+  </RelativeLayout>

@@ -1,0 +1,196 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>问卷调查</title>
+</head>
+ <body style="text-align: left;  background-image:url(images/bgdetail.png);"> 
+    <input type="hidden" id="bt" value='<%=session.getAttribute("bt")%>'>
+    <input type="hidden" id="nr" value='<%=session.getAttribute("nr")%>'>
+  
+   		 <h1><p align="center"  id="title">入室盗窃问卷</p></h1>
+   	<form action="">	
+   <div id="content" style="width: 1000px;margin-left: 200px;line-height: 40px">
+   		<h3>一、单选题</h3>
+   		<div style="line-height: 30px;">
+   		1、文化程度<br>
+   		<input type="radio" name="1">文盲
+   		<input type="radio" name="1">小学
+   		<input type="radio" name="1">初中
+   		<input type="radio" name="1">高中
+   		<input type="radio" name="1">大专及以上
+   		</div>
+   		<div style="line-height: 30px;">
+   		2、在原籍从事的职业<br>
+   		<input type="radio" name="2">无业
+   		<input type="radio" name="2">务农
+   		<input type="radio" name="2">个体工商户
+   		<input type="radio" name="2">打工
+   		<input type="radio" name="2">其他
+   		</div>
+   		<div style="line-height: 30px;">
+   		3、性别<br>
+   		<input type="radio" name="3">男
+   		<input type="radio" name="3">女
+   		<input type="radio" name="3">其他
+   		</div>
+   		<div style="line-height: 30px;">
+   		4、婚姻状况<br>
+   		<input type="radio" name="4">已婚
+   		<input type="radio" name="4">未婚
+   		<input type="radio" name="4">离异
+   		</div>
+   		<div style="line-height: 30px;">
+   		5、有否前科劣迹<br>
+   		<input type="radio" name="5">是
+   		<input type="radio" name="5">否
+   		</div>
+   		<div style="line-height: 30px;">
+   		6、为何来沪<br>
+   		<input type="radio" name="6">打工
+   		<input type="radio" name="6">旅游
+   		<input type="radio" name="6">探亲
+   		<input type="radio" name="6">路过
+   		<input type="radio" name="6">作案
+   		<input type="radio" name="6">求学
+   		<input type="radio" name="6">其他
+   		</div>
+   		<div style="line-height: 30px;">
+   		7、最近一次随何人来沪<br>
+   		<input type="radio" name="7">独自一人
+   		<input type="radio" name="7">父母
+   		<input type="radio" name="7">兄弟姐妹
+   		<input type="radio" name="7">亲戚
+   		<input type="radio" name="7">朋友
+   		<input type="radio" name="7">同事
+   		<input type="radio" name="7">同学
+   		<input type="radio" name="7">老乡
+   		<input type="radio" name="7">同伙
+   		<input type="radio" name="7">其他
+   		</div>
+   		<div style="line-height: 30px;">
+   		8、最近一次来沪，先在何处落脚<br>
+   		<input type="radio" name="8">宾旅馆
+   		<input type="radio" name="8">浴室
+   		<input type="radio" name="8">网吧
+   		<input type="radio" name="8">借住老乡处
+   		<input type="radio" name="8">借住亲戚处
+   		<input type="radio" name="8">自己借房居住
+   		<input type="radio" name="8">其他
+   		</div>
+   		<div style="line-height: 30px;">
+   		9、被抓前，在何处居住<br>
+   		<input type="radio" name="9">宾旅馆
+   		<input type="radio" name="9">浴室
+   		<input type="radio" name="9">网吧
+   		<input type="radio" name="9">自己借房居住
+   		<input type="radio" name="9">暂住老乡朋友处
+   		<input type="radio" name="9">暂住亲戚处
+   		<input type="radio" name="9">其他
+   		</div>
+   		<div style="line-height: 30px;">
+   		10、平时生活中，一般使用何种身份证<br>
+   		<input type="radio" name="10">真的
+   		<input type="radio" name="10">假的
+   		</div>
+   		<h3>二、多选题</h3>
+   		<div style="line-height: 30px;">
+   		1、被抓前，从事何种职业<br>
+   		<input type="checkbox" name="d1">打工
+   		<input type="checkbox" name="d1">务农
+   		<input type="checkbox" name="d1">做生意
+   		<input type="checkbox" name="d1">无业
+   		<input type="checkbox" name="d1">其他
+   		</div>
+   		<div style="line-height: 30px;">
+   		2、月均收入情况<br>
+   		<input type="checkbox" name="d2">500元以下
+   		<input type="checkbox" name="d2">500-1500
+   		<input type="checkbox" name="d2">1500-3000
+   		<input type="checkbox" name="d2">3000-5000
+   		<input type="checkbox" name="d2">5000以上
+   		</div>
+   		<div style="line-height: 30px;">
+   		3、对近期上海公安机关打击工作的感受和评价<br>
+   		<input type="checkbox" name="d3">打击较严，作案机会少了
+   		<input type="checkbox" name="d3">与以往差不多，没有影响
+   		<input type="checkbox" name="d3">其他
+   		</div>
+   		<div style="line-height: 30px;">
+   		4、作案选择的时段<br>
+   		<input type="checkbox" name="d4">深夜
+   		<input type="checkbox" name="d4">凌晨
+   		<input type="checkbox" name="d4">上午
+   		<input type="checkbox" name="d4">中午
+   		<input type="checkbox" name="d4">下午
+   		<input type="checkbox" name="d4">傍晚
+   		</div>
+   		<div style="line-height: 30px;">
+   		5、作案地一般选择在<br>
+   		<input type="checkbox" name="d5">别墅区
+   		<input type="checkbox" name="d5">新建小区
+   		<input type="checkbox" name="d5">老式居民住宅区
+   		<input type="checkbox" name="d5">商务楼
+   		<input type="checkbox" name="d5">宾旅馆
+   		<input type="checkbox" name="d5">偏僻农宅
+   		<input type="checkbox" name="d5">企事业单位
+   		<input type="checkbox" name="d5">其他
+   		</div>
+   		<div style="line-height: 30px;">
+   		6、作案时，使用何种交通工具<br>
+   		<input type="checkbox" name="d6">不用交通工具
+   		<input type="checkbox" name="d6">自行车
+   		<input type="checkbox" name="d6">助动车
+   		<input type="checkbox" name="d6">摩托车
+   		<input type="checkbox" name="d6">公交车
+   		<input type="checkbox" name="d6">出租车
+   		<input type="checkbox" name="d6">黑车
+   		<input type="checkbox" name="d6">其他
+   		</div>
+   		<div style="line-height: 30px;">
+   		7、一般作案的入室方式<br>
+   		<input type="checkbox" name="d7">砸门锁
+   		<input type="checkbox" name="d7">砸窗
+   		<input type="checkbox" name="d7">技术开锁
+   		<input type="checkbox" name="d7">插片
+   		<input type="checkbox" name="d7">其他
+   		</div>
+   		<div style="line-height: 30px;">
+   		8、作案的方法、手段如何获知<br>
+   		<input type="checkbox" name="d8">自己所想
+   		<input type="checkbox" name="d8">受别人教唆
+   		<input type="checkbox" name="d8">媒体报道中获知
+   		<input type="checkbox" name="d8">相关小说书籍
+   		<input type="checkbox" name="d8">其他
+   		</div>
+   		<div style="line-height: 30px;">
+   		9、作案成功后，对赃物一般如何处理<br>
+   		<input type="checkbox" name="d9">路边兜售
+   		<input type="checkbox" name="d9">带回原籍销赃
+   		<input type="checkbox" name="d9">卖给熟人
+   		<input type="checkbox" name="d9">卖给废品收购站
+   		<input type="checkbox" name="d9">卖给典当寄售行
+   		<input type="checkbox" name="d9">到金银首饰加工店加工
+   		<input type="checkbox" name="d9">二手手机店
+   		<input type="checkbox" name="d9">自己用
+   		</div>
+   		<div style="line-height: 30px;">
+   		10、作案后，一般去何种娱乐场所消费<br>
+   		<input type="checkbox" name="d10">网吧
+   		<input type="checkbox" name="d10">酒吧
+   		<input type="checkbox" name="d10">游戏机房
+   		<input type="checkbox" name="d10">棋牌室
+   		<input type="checkbox" name="d10">浴场
+   		<input type="checkbox" name="d10">舞厅
+   		<input type="checkbox" name="d10">卡拉OK厅
+   		<input type="checkbox" name="d10">发廊
+   		<input type="checkbox" name="d10">足浴店
+   		<input type="checkbox" name="d10">其他
+   		</div>
+   </div>
+    <div align="center" style="padding: 20px">
+    <input type="button"  value="提交"  onClick="alert('请将问卷填写完整')">
+    </div>
+   </form>
+</body>
+</html>

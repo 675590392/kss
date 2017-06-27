@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-mdpi/cwzk_x.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-mdpi/cwzk_x.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-mdpi/hsbz.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-mdpi/hsbz.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-mdpi/checkbox_checked.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-mdpi/checkbox_checked.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sunny/Documents/android/android enterprise project/kss/app/build/intermediates/res/merged/debug/drawable-mdpi/checkbox_default.png",
+        "source": "/Users/sunny/Documents/android/android enterprise project/kss/app/src/main/res/drawable-mdpi/checkbox_default.png"
+    }
+]

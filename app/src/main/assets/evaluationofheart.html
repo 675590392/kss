@@ -1,0 +1,87 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>心理测评</title>
+</head>
+ <body style="text-align: left;  background-image:url(images/bgdetail.png);"> 
+    <input type="hidden" id="bt" value='<%=session.getAttribute("bt")%>'>
+    <input type="hidden" id="nr" value='<%=session.getAttribute("nr")%>'>
+  
+   		 <h1><p align="center"  id="title">心理测评问卷</p></h1>
+   	<form action="">	
+   <div id="content" style="width: 1000px;margin-left: 200px;line-height: 40px">
+		<div style="line-height: 30px;">
+   		1、若有块地是养老用的房子，你会盖在哪？<br>
+   		<input type="radio" name="1">A、靠近湖边
+   		<input type="radio" name="1">B、靠近河边
+   		<input type="radio" name="1">C、深山内 
+   		<input type="radio" name="1">D、森林
+   		</div>
+		<div style="line-height: 30px;">
+   		2、吃西餐最先动那一道？<br>
+   		<input type="radio" name="2">A、面包
+   		<input type="radio" name="2">B、肉类
+   		<input type="radio" name="2">C、沙拉
+   		<input type="radio" name="2">D、饮料
+   		</div>
+		<div style="line-height: 30px;">
+   		3、如果节庆要喝点饮料，你认为如何搭配最适当呢？<br>
+   		<input type="radio" name="3">A、耶诞节 / 香槟
+   		<input type="radio" name="3">B、新年 / 牛奶 
+   		<input type="radio" name="3">C、情人节 / 葡萄酒
+   		<input type="radio" name="3">D、国庆日 / 威士忌
+   		</div>
+		<div style="line-height: 30px;">
+   		4、你通常什么时候洗澡？<br>
+   		<input type="radio" name="4">A、吃完晚饭后
+   		<input type="radio" name="4">B、吃晚饭前
+   		<input type="radio" name="4">C、看完电视后
+   		<input type="radio" name="4">D、上床前
+   		</div>
+		<div style="line-height: 30px;">
+   		5、如果你可以化为天空的一隅，希望自己成为什么呢？<br>
+   		<input type="radio" name="5">A、太阳
+   		<input type="radio" name="5">B、月亮
+   		<input type="radio" name="5">C、星星
+   		<input type="radio" name="5">D、云
+   		</div>
+		<div style="line-height: 30px;">
+   		6、你觉得用什么颜色的笔写的爱字更能代表真爱？<br>
+   		<input type="radio" name="6">A、红色
+   		<input type="radio" name="6">B、绿色
+   		<input type="radio" name="6">C、黑色
+   		<input type="radio" name="6">D、蓝色
+   		</div><div style="line-height: 30px;">
+   		7、挑选一种你最喜爱的水果吧!<br>
+   		<input type="radio" name="7">A、苹果
+   		<input type="radio" name="7">B、哈密瓜
+   		<input type="radio" name="7">C、橘子
+   		<input type="radio" name="7">D、葡萄
+   		</div><div style="line-height: 30px;">
+   		8、若你是只白蝴蝶，会停在那一种颜色的花上咧？<br>
+   		<input type="radio" name="8">A、红色
+   		<input type="radio" name="8">B、粉红色
+   		<input type="radio" name="8">C、黄色
+   		<input type="radio" name="8">D、紫色
+   		</div><div style="line-height: 30px;">
+   		9、假日无聊时，你会选择什么电视节目来看？<br>
+   		<input type="radio" name="9">A、新闻节目
+   		<input type="radio" name="9">B、体育节目
+   		<input type="radio" name="9">C、综艺节目
+   		<input type="radio" name="9">D、连续剧
+   		</div>
+		<div style="line-height: 30px;">
+   		10、你最爱的一项运动<br>
+   		<input type="radio" name="10">A、游泳
+   		<input type="radio" name="10">B、杠杆
+   		<input type="radio" name="10">C、球类
+   		<input type="radio" name="10">D、跑步
+   		</div>
+   </div>
+    <div align="center" style="padding: 20px">
+    <input type="button"  value="提交"  onClick="alert('请将问卷填写完整')">
+    </div>
+   </form>
+</body>
+</html>

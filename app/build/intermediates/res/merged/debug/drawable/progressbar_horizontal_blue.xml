@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@android:id/background">
+        <shape>
+            <solid android:color="#ff555555"/>
+            <corners
+                android:bottomLeftRadius="10dp"
+                android:bottomRightRadius="10dp"
+                android:topLeftRadius="10dp"
+                android:topRightRadius="10dp" />
+        </shape>
+    </item>
+    <item android:id="@android:id/secondaryProgress">
+        <clip>
+            <shape>
+                <corners
+                android:bottomLeftRadius="10dp"
+                android:bottomRightRadius="10dp"
+                android:topLeftRadius="10dp"
+                android:topRightRadius="10dp" />
+
+                <gradient
+                    android:angle="270"
+                    android:centerColor="#ff909090"
+                    android:centerY="0.75"
+                    android:endColor="#ff909090"
+                    android:startColor="#ff909090" />
+            </shape>
+        </clip>
+    </item>
+    <!-- 锤子方向的颜色分布 -->
+    <item android:id="@android:id/progress">
+        <clip>
+            <shape>
+                <corners
+                android:bottomLeftRadius="10dp"
+                android:bottomRightRadius="10dp"
+                android:topLeftRadius="10dp"
+                android:topRightRadius="10dp" />
+
+                <gradient
+                    android:angle="270"
+                    android:centerColor="#ffe62f03"
+                    android:centerY="0.75"
+                    android:endColor="#ffe62f03"
+                    android:startColor="#ffe62f03" />
+            </shape>
+        </clip>
+    </item>
+
+</layer-list>

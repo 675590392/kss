@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#edf3ff" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_weight="1.0" >
+
+            <TextView
+                style="@style/eduzt"
+                android:id="@+id/tdate1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="周一~周日" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="2dp"
+            android:layout_height="match_parent"
+            android:background="#cbd0d4" >
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1.0" >
+
+            <TextView
+                android:id="@+id/time1"
+                style="@style/eduzt"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="7:00-8:00" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="2dp"
+            android:layout_height="match_parent"
+            android:background="#cbd0d4" >
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1.0" >
+
+            <TextView
+                android:id="@+id/time2"
+                style="@style/eduzt"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="8:00-9:00" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="2dp"
+            android:layout_height="match_parent"
+            android:background="#cbd0d4" >
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1.0" >
+
+            <TextView
+                android:id="@+id/time3"
+                style="@style/eduzt"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="9:15-9:30" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="2dp"
+            android:layout_height="match_parent"
+            android:background="#cbd0d4" >
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1.0" >
+
+            <TextView
+                android:id="@+id/time4"
+                style="@style/eduzt"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="9:30-10:15" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="2dp"
+            android:layout_height="match_parent"
+            android:background="#cbd0d4" >
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1.0" >
+
+            <TextView
+                android:id="@+id/time5"
+                style="@style/eduzt"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="10:15-12:00" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="2dp"
+            android:layout_height="match_parent"
+            android:background="#cbd0d4" >
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1.0" >
+
+            <TextView
+                android:id="@+id/time6"
+                style="@style/eduzt"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="14:00-14:15" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="2dp"
+            android:layout_height="match_parent"
+            android:background="#cbd0d4" >
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1.0" >
+
+            <TextView
+                android:id="@+id/time7"
+                style="@style/eduzt"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="14:15-15:00" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="2dp"
+            android:layout_height="match_parent"
+            android:background="#cbd0d4" >
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1.0" >
+
+            <TextView
+                android:id="@+id/time8"
+                style="@style/eduzt"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="15:00-15:15" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="2dp"
+            android:layout_height="match_parent"
+            android:background="#cbd0d4" >
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1.0" >
+
+            <TextView
+                android:id="@+id/time9"
+                style="@style/eduzt"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="15:15-15:45" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="2dp"
+            android:layout_height="match_parent"
+            android:background="#cbd0d4" >
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1.0" >
+
+            <TextView
+                android:id="@+id/timea"
+                style="@style/eduzt"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="15:45-19:00" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="2dp"
+            android:layout_height="match_parent"
+            android:background="#cbd0d4" >
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1.0" >
+
+            <TextView
+                android:id="@+id/timeb"
+                style="@style/eduzt"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="19:00-21:30" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="2dp"
+            android:layout_height="match_parent"
+            android:background="#cbd0d4" >
+        </LinearLayout>
+
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="#cbd0d4" >
+    </View>
+</LinearLayout>

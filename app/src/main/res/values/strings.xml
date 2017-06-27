@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">监管软件</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="zhuGuanJiao">主管教:</string>
+    <string name="xieGuanJiao">协管教:</string>
+
+    <string-array name="gw_lx">
+        <item>全部</item>
+        <item>食品类</item>
+        <item>日常用品</item>
+        <item>学习用品</item>
+    </string-array>
+    <string name="title_activity_inter_rules">InterRulesActivity</string>
+    <string name="title_activity_week_eeducat">WeekEeducatActivity</string>
+    <string name="title_activity_room_record">RoomRecordActivity</string>
+    <string name="title_activity_bunk_aguement">BunkAguementActivity</string>
+    <string name="title_activity_bunk_agrement">BunkAgrementActivity</string>
+    <string name="title_activity_servcie_action">ServcieActionActivity</string>
+    <string name="title_activity_public_bunk_agrement">PublicBunkAgrementActivity</string>
+    <string name="title_activity_public_schedule">PublicScheduleActivity</string>
+    <string name="title_activity_base_main">BaseMainActivity</string>
+</resources>

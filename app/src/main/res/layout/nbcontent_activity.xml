@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/ej_back"
+    android:id="@+id/ej_back"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal" >
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:layout_marginTop="20dp"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="fill_parent" >
+
+                 <WebView
+	                android:id="@+id/content_xs"
+	                android:layout_marginLeft="20dp"
+	                android:layout_marginRight="20dp"
+	                android:layout_marginBottom="50dp"
+	                android:layerType="software"  
+	                android:layout_width="match_parent"
+	                android:layout_height="match_parent" />
+                
+                  <LinearLayout
+                    android:layout_width="160dp"
+                    android:layout_height="40dp"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginTop="40dip"
+                    android:layout_marginRight="30dip"
+                    android:id="@+id/linearLayout_radioGroup"
+                    android:layout_marginLeft="30dp"
+                    android:background="@drawable/language_b"
+                    android:gravity="center"
+                    android:orientation="horizontal" >
+
+                    <RadioGroup
+                        android:layout_width="150dp"
+                        android:layout_height="30dp"
+                        android:layout_gravity="center"
+                        android:orientation="horizontal" >
+
+                        <RadioButton
+                            android:id="@+id/chinese"
+                            android:layout_width="0dp"
+                            android:layout_height="30dp"
+                            android:layout_weight="1"
+                            android:background="@drawable/language_but_style"
+                            android:button="@null"
+                            android:checked="true"
+                            android:gravity="center"
+                            android:paddingRight="8dp"
+                            android:text="中" />
+
+                        <RadioButton
+                            android:id="@+id/english"
+                            android:layout_width="0dp"
+                            android:layout_height="30dp"
+                            android:layout_weight="1"
+                            android:background="@drawable/language_but_style"
+                            android:button="@null"
+                            android:gravity="center"
+                            android:paddingRight="8dp"
+                            android:text="ENG" />
+                    </RadioGroup>
+                </LinearLayout>
+<RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/bottom_image" >
+
+        <ImageView
+            android:id="@+id/rhome_but"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:visibility="gone"
+            android:background="@drawable/home_page_style" />
+
+        <ImageView
+            android:id="@+id/rreturn_but"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/return_style" />
+    </RelativeLayout>
+                
+            </RelativeLayout>
+
+        </LinearLayout>
+
+        
+    </LinearLayout>
+    
+
+</LinearLayout>
